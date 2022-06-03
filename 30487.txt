@@ -1,1 +1,2 @@
-To jest przykładowe wyrażenie.
+To jest przykładowe zdanie.
+Modyfikacja pliku gałęzi "test_branch".
