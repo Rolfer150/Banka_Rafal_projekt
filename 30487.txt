@@ -1,2 +1,2 @@
 To jest przykładowe zdanie.
-Modyfikacja pliku na gałęzi "test_branch".
+Modyfikacja pliku gałęzi "test_branch".
